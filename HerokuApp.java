@@ -42,8 +42,6 @@ public class HerokuApp {
         String dropdownText = dropdownLink.getText();
         System.out.println(dropdownText);
 
-
-
     }
 
     @Test
@@ -93,3 +91,4 @@ public class HerokuApp {
 
 
 }
+ 
